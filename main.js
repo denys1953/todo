@@ -1,10 +1,9 @@
 var inp = document.querySelector('input');
 let ul = document.querySelector('ul');
 let li = document.querySelector('li');
-inp.addEventListener('keydown', func);
+inp.addEventListener('keyup', func);
 let item;
 let closed;
-
 document.getElementById('but').onclick = function() {
    send();
 }

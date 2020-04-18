@@ -19,8 +19,12 @@ li {
    padding-left: -100px;
    margin: 10px 0;
    padding: 10px 0;
+   border-radius: 5px;
    border-bottom: 1px solid silver;
    border-top: 1px solid silver;
    border-right: 1px solid silver;
+}
+.close {
+   margin-right: 10px;
 }
 
