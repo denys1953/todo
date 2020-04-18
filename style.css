@@ -1,0 +1,26 @@
+#inp {
+   display: block;
+}
+.gg input, #but{
+   width: 100%;
+   border-radius: 5px;
+   border: none;
+   margin-top: 10px;
+   height: 40px;
+}
+.gg input, button:focus {
+   outline: none;
+}
+.gg input {
+   border: 1px solid black;
+   padding-left: 10px;
+}
+li {
+   padding-left: -100px;
+   margin: 10px 0;
+   padding: 10px 0;
+   border-bottom: 1px solid silver;
+   border-top: 1px solid silver;
+   border-right: 1px solid silver;
+}
+
